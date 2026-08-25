@@ -1,0 +1,6 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <rect x="15" y="15" width="12" height="12" fill="#4a90e2" />
+  <path d="M33 15 L45 27 L33 27 Z" fill="#4a90e2" /> <!-- Stylized shape -->
+  <rect x="15" y="33" width="12" height="12" fill="#4a90e2" />
+  <rect x="33" y="33" width="12" height="12" fill="#4a90e2" />
+</svg>
